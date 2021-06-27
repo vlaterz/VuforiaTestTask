@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="scp" size="1.000000 1.000000" />
+    <ImageTarget name="x" size="1.000000 1.000000" />
+    <ImageTarget name="WS" size="1.000000 1.000000" />
+    <ImageTarget name="500r" size="1.000000 0.435807" />
+    <ImageTarget name="500" size="1.000000 0.445682" />
+    <ImageTarget name="1000" size="1.000000 0.444614" />
+    <ImageTarget name="5000Rub" size="1.000000 0.447266" />
+  </Tracking>
+</QCARConfig>
